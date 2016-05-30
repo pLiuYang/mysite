@@ -1,6 +1,6 @@
 # mysite
 
-## repo for my website
+## repo for my own website
 ### self introduction
 ### testing scripts
 ### blogs
