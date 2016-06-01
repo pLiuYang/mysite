@@ -322,7 +322,7 @@ __________________________________________________________
         position: relative;
         cursor: pointer;
         overflow: hidden;
-        height: 215px;
+        height: 163px;
         border: 1px solid #fff;
         box-shadow: 0 0 2px #333;
         width: 288px; }
@@ -349,6 +349,17 @@ __________________________________________________________
         margin-top: 95px;
         float: left;
         width: 290px; }
+
+    .item .hover .h4 {
+            font-family: 'Oswald', arial, serif;
+            font-size: 20px;
+            color: #333;
+            border: 0;
+            text-align: center;
+            border-bottom: 0;
+            margin-top: 55px;
+            float: left;
+            width: 290px; }
  
 .item_details {
     float: left;
